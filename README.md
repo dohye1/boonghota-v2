@@ -23,15 +23,19 @@
 
 # Frontend 
 - nextjs
+- typescript
 - emotion
 - (상태관리는 좀더고민)
 
 # Backend
 - express
+- typescipt
 - mongodb
 
 # ETC
 - aws
 - git
 
-
+# 주의할점?
+- 일단 개발할때 편하게하려면 기초를 잡고 시작하자(타입같은거)
+- 인증에 대해서 공부좀하기
